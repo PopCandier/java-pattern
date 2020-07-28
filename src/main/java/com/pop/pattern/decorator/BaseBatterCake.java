@@ -14,6 +14,7 @@ public class BaseBatterCake extends BatterCake {
         return "基础面皮";
     }
 
+
     @Override
     int getPrice() {
         return 2;//一张面皮两块
